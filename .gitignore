@@ -1,0 +1,28 @@
+# Build and IDE folders
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.[Oo]bj
+
+# Build artifacts and logs
+*.user
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.db
+*.log
+*.tlog
+*.pdb
+*.iobj
+*.ipdb
+*.recipe
+*.lastbuildstate
+*.pch
+*.idb
+*.ilk
+*.ext
+vcpkg.applocal.log
